@@ -1,0 +1,89 @@
+body{
+    padding: 0;
+    margin: 0; 
+}
+.container{
+    margin: 0 auto;
+    max-width: 1500px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.left_side{
+    display: flex;
+}
+
+.canva{
+    margin: 10px 20px 10px 30px;
+
+}
+.right_side{
+    gap: 1rem;
+    display: flex;
+
+}
+
+.drop_container{
+    display: flex;
+    align-items: center;
+
+    gap: 1rem;
+}
+
+.begin{
+    border: none;
+}
+.m_55{ 
+    border: none; 
+
+}
+.m_56{
+    border: none;
+}
+
+.voyti{
+    padding:10px 100px;
+    background-color: rgb(246, 246, 251);
+}
+.register{
+    padding:10px 100px;
+    background-color: rgb(172, 85, 253);
+
+}
+.register a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.register_now{
+    display: flex;
+    justify-content: center;
+}
+.registers{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(9, 13, 255);
+}
+video{
+    width: 100%;
+    height: 100%;
+}
+
+
